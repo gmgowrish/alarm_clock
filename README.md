@@ -1,2 +1,2 @@
 # alarm_clock
- input giving  on inside the code
+ Input giving  on inside the code

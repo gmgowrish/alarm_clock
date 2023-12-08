@@ -62,7 +62,7 @@ window.mainloop()
 # first_name = (input('\nenter the ur name:'))
 # if first_name == 'gowrish':
 #     print('found')
-# elif first_name == 'sowmay':
+# elif first_name == '':
 #     print('my crush')
 # elif first_name == 'dilip':
 #     print('found')
